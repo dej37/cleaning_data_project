@@ -1,0 +1,264 @@
+customer_id,name,age,salary,signup_date,city,product,quantity,satisfaction_score
+C1088,Hiro O'Neil,29.1,"$44,959",04-23-2025,Mumbai,Doohickey,7.0,82.0
+C1022,Bob O'Neil,58.7,"$63,776",13 Sep 2024,Tokyo,Gizmo,2.0,60.4
+C1060,Jamal Müller,51.9,"$74,685",11-29-2024,Tokyo,Gizmo,8.0,-999.0
+C1234,Elena Nguyen,39.2,"$81,096",2025-10-13,Lisbon,Gizmo,,67.9
+C1199,Jamal Kowalski,24.3,"$58,309",2024-04-06,Austin,Sprocket,4.0,56.7
+C1109,Hiro Müller,44.3,"$86,825",28/07/2025,Austin,Gizmo,7.0,68.1
+C1002,Grace O'Neil,43.8,"$75,018",2025-05-04,Mumbai,Sprocket,7.0,70.6
+C1081,Elena Kowalski,36.2,"$93,997",2025-11-25,Mumbai,Gizmo,6.0,86.4
+C1024,Hiro Nguyen,48.4,"$48,805",2024-13-45,NA,Gadget,2.0,62.2
+C1193,Dana Nguyen,33.1,"$46,629",30/07/2025,Nairobi,Widget,8.0,87.4
+C1113,Elena Kim,38.7,"$48,756",13 Aug 2024,Lisbon,Gadget,8.0,72.2
+C1209,Hiro Smith,43.2,"$76,513",11-13-2025,Berlin,Widget,3.0,54.6
+C1162,Elena Kowalski,35.7,"$77,630",2024-10-23,Austin,Sprocket,8.0,87.4
+C1122,Grace Nguyen,35.8,"$69,903",07-06-2024,Sydney,Sprocket,7.0,62.4
+C1215,  CARLOS KIM ,43.4,N/A,03/06/2024,Austin,Sprocket,8.0,39.3
+C1114,Frank Smith,,"$58,838",13 Jun 2024,Berlin,Gadget,4.0,85.2
+C1066,Jamal Müller,57.4,"$41,913",12/05/2025,Sydney,Gizmo,8.0,44.2
+C1132,Alice Kim,20.2,"$76,252",07-15-2024,Austin,Widget,9.0,81.8
+C1057,Bob Silva,23.4,"$78,733",07/07/2025,Nairobi,Doohickey,8.0,90.2
+C1003,Elena Kowalski,17.1,"$70,336",06-17-2024,Berlin,Doohickey,2.0,71.5
+C1203,Grace Smith,55.2,"$46,729",11-10-2024,Toronto,Sprocket,,65.9
+C1108,  ELENA SMITH ,43.3,"$68,193",26/09/2025,Lisbon,Sprocket,5.0,75.3
+C1187,  DANA KIM ,32.5,"$79,000",03-01-2024,Lisbon,Gadget,5.0,26.3
+C1074,  GRACE KIM ,,"$53,846",19 Jun 2024,Nairobi,Gadget,8.0,67.4
+C1147,Carlos O'Neil,33.7,"$23,234",30/07/2025,Nairobi,Widget,2.0,44.6
+C1070,Hiro Kowalski,19.0,"$91,121",2024-04-19,Berlin,Sprocket,3.0,63.5
+C1220,Bob Müller,14.1,"$95,273",25 Jun 2024,Mumbai,Sprocket,1.0,58.9
+C1046,Elena Haddad,59.8,"$57,375",2024-10-07,Mumbai,Doohickey,4.0,88.8
+C1150,Ingrid Kim,21.4,"$61,380",19 Jan 2024,Tokyo,Doohickey,4.0,93.4
+C1232,Alice Kowalski,,"$63,565",06/01/2025,Tokyo,Sprocket,5.0,74.5
+C1227,Frank Smith,31.5,"$45,318",08-02-2025,Lisbon,Sprocket,4.0,56.6
+C1129,Grace Kowalski,48.0,"$71,979",17 Apr 2024,Sydney,Doohickey,4.0,87.7
+C1164,Elena Smith,42.3,"$64,782",01-16-2025,Berlin,Gizmo,3.0,54.9
+C1141,  CARLOS O'NEIL ,54.2,"$70,653",26 Jun 2025,Mumbai,Sprocket,4.0,75.5
+C1050,Hiro Kowalski,23.9,"$33,051",2024-07-21,Berlin,Sprocket,8.0,55.2
+C1179,Frank Müller,27.9,"$44,477",02/06/2024,Berlin,Doohickey,9.0,74.2
+C1086,Alice Kim,36.5,"$59,848",2024-03-15,Berlin,Gadget,9.0,74.6
+C1011,Jamal O'Neil,,,2025-02-14,Sydney,Gadget,1.0,73.7
+C1090,Elena Müller,40.4,"$74,441",2024-03-23,Lisbon,Widget,4.0,79.3
+C1005,  INGRID O'NEIL ,43.5,"$63,432",27/03/2025,Toronto,Gizmo,3.0,50.4
+C1230,Elena Kowalski,31.3,"$41,552",11-20-2024,Toronto,Widget,5.0,67.7
+C1180,Jamal Smith,150.0,"$44,848",03-13-2025,Lisbon,Gizmo,7.0,65.0
+C1102,Ingrid Kowalski,39.3,"$61,865",18 Jun 2025,Berlin,Gadget,3.0,83.2
+C1058,  HIRO KOWALSKI ,,"$73,066",2024-06-23,Tokyo,Widget,6.0,88.6
+C1161,Grace O'Neil,-5.0,"$64,754",05/03/2024,Mumbai,Sprocket,5.0,80.1
+C1246,Hiro Smith,54.8,"$62,792",31 Aug 2024,Tokyo,Gizmo,6.0,51.9
+C1120,Elena Kowalski,44.4,"$18,835",not a date,Mumbai,Sprocket,3.0,66.2
+C1240,Bob Kim,48.8,"$62,281",2024-07-20,Sydney,widg et,8.0,65.5
+C1096,Carlos Kim,44.6,"$62,444",not a date,Austin,Gadget,7.0,58.8
+C1007,Grace Smith,32.3,"$51,437",07-21-2024,Toronto,Sprocket,9999.0,85.7
+C1094,Ingrid Kim,48.3,"$68,095",2024-07-26,Sydney,Doohickey,5.0,90.3
+C1080,Jamal Silva,27.6,"$21,570",01/01/2024,Sydney,Sprocket,7.0,-999.0
+C1115,  FRANK SILVA ,43.5,"$63,531",08/06/2025,Toronto,Widget,8.0,49.5
+C1210,Carlos Müller,-5.0,"$72,966",2025-10-30,Berlin,Gadget,2.0,61.8
+C1245,  ALICE NGUYEN ,35.7,"$32,839",2025-08-01,Austin,widget,9.0,97.4
+C1101,Bob Smith,-5.0,"$98,261",04-15-2025,Sydney,Widget,6.0,68.6
+C1166,Dana Kim,33.9,"$43,114",15/02/2025,Lisbon,Widget,7.0,68.0
+C1078,Frank O'Neil,40.8,,11/07/2025,Berlin,Gizmo,6.0,79.2
+C1008,Carlos O'Neil,41.2,"$46,419",08-01-2024,Mumbai,Gizmo,4.0,51.5
+C1145,Ingrid Haddad,20.2,"$50,119",01/04/2025,Mumbai,Doohickey,1.0,54.1
+C1027,Ingrid Haddad,25.4,"$89,051",12/07/2025,Austin,Gizmo,3.0,81.4
+C1065,Dana Müller,43.0,"$50,481",03-19-2024,Nairobi,Widget,6.0,67.5
+C1052,  DANA SMITH ,56.1,"$54,604",03-18-2025,Toronto,Gadget,4.0,84.1
+C1062,Dana Smith,10.5,"$69,235",05/06/2024,Berlin,Widget,2.0,47.1
+C1202,Elena Nguyen,40.7,"$59,613",05 May 2024,Austin,widget,3.0,46.2
+C1098,  GRACE O'NEIL ,35.5,"$33,848",26/05/2024,Tokyo,Gadget,8.0,-999.0
+C1139,Elena O'Neil,53.9,"$56,741",11-01-2024,Tokyo,Sprocket,4.0,82.2
+C1099,Bob O'Neil,14.0,"$67,959",05 Feb 2024,Mumbai,Gadget,2.0,95.4
+C1242,Alice Haddad,26.4,"$42,494",30 Jun 2024,Lisbon,Gizmo,8.0,68.5
+C1157,Frank O'Neil,-5.0,"$48,610",01-12-2025,Toronto,Doohickey,6.0,76.0
+C1133,Frank O'Neil,10.0,"$87,531",17/02/2024,Tokyo,Sprocket,1.0,55.7
+C1031,Carlos Nguyen,58.8,"$21,621",2024-04-06,Sydney,Gadget,2.0,73.1
+C1212,Hiro Müller,51.0,"$76,437",2024-11-14,Lisbon,Sprocket,5.0,52.9
+C1095,Carlos Kowalski,48.1,"$58,928",18/11/2024,Mumbai,Sprocket,9.0,81.7
+C1013,Hiro Kim,39.8,"$65,921",2024-10-13,Austin,Gizmo,9.0,94.2
+C1121,Grace Müller,29.5,"$79,127",2025-09-17,Lisbonn,Gadget,7.0,81.9
+C1009,Alice Silva,,"$42,600",06-29-2024,Berlin,Gadjet,3.0,69.2
+C1018,Ingrid Silva,41.6,"$53,248",22 Jul 2024,Lisbon,Gizmo,9999.0,63.3
+C1126,Alice Müller,44.3,"$71,288",03 Oct 2025,BERLIN,Widget,5.0,79.1
+C1224,Hiro Müller,29.4,"$89,311",06 Jun 2025,Berlin ,Sprocket,7.0,45.4
+C1067,Dana Müller,13.2,"$77,849",2025-08-05,BERLIN,Gadget,3.0,67.1
+C1084,Grace Nguyen,50.0,"$30,137",23 Jan 2024,Berlin,Doohickey,8.0,76.1
+C1014,Hiro Kim,150.0,"$51,220",2024-07-19,Tokyo,Gizmo,7.0,79.6
+C1040,  BOB HADDAD ,49.9,"$94,000",2024-07-19,Berlin,Widget,3.0,58.2
+C1045,Jamal Silva,47.0,"$41,941",2024-10-22,Lisbon,Gadget,5.0,97.6
+C1186,Bob Silva,24.6,"$67,846",2025-06-15,Berlin,Doohickey,1.0,89.9
+C1032,Alice Müller,52.1,"$44,186",04/05/2025,Lisbon,Doohickey,9.0,54.4
+C1077,Carlos Smith,40.8,"$57,591",2025-04-25,Tokyo,Widget,1.0,43.2
+C1158,Frank Kim,31.6,unknown,14/11/2024,Tokyo,Gizmo,4.0,56.0
+C1197,Bob Kim,33.9,"$97,357",11-24-2025,Mumbai,Widget,8.0,54.1
+C1221,  ELENA HADDAD ,,"$96,122",29/05/2025,Berlin,Gadjet,4.0,102.0
+C1028,  FRANK SMITH ,34.0,"$87,463",2024-13-45,Tokyo,Doohickey,3.0,97.6
+C1063,Jamal Kowalski,41.7,"$39,373",09/04/2025,Lisbon,Gizmo,4.0,71.9
+C1082,  BOB KOWALSKI ,36.2,"$110,888",2024-01-17,Mumbai,Widget,,-999.0
+C1228,Frank Müller,67.0,"$72,146",2024-09-16,NA,Doohickey,7.0,85.6
+C1153,Carlos Kim,43.7,"$46,445",25/08/2025,Toronto,Doohickey,1.0,93.3
+C1015,  HIRO SILVA ,7.2,?,2024-06-02,Tokyo,Gizmo,1.0,52.3
+C1041,Hiro Kowalski,23.9,"$42,997",2024-05-14,Austin,Gizmo,,114.1
+C1058,  HIRO KOWALSKI ,,"$73,066",2024-06-23,Tokyo,Widget,6.0,88.6
+C1160,Jamal O'Neil,30.1,"$76,655",31 Jan 2024,Sydney,Gizmo,9.0,48.6
+C1204,Elena Silva,39.1,"$101,878",04 Oct 2025,Mumbai,Widget,8.0,59.1
+C1036,Ingrid O'Neil,,"$100,951",21/03/2024,Lisbon,Gadget,3.0,56.2
+C1168,Dana Kowalski,50.8,,08-17-2024,Lisbon,Widget,4.0,48.7
+C1138,  DANA KIM ,51.1,"$91,971",01 Mar 2024,Sydney,Doohickey,9.0,68.9
+C1238,  DANA HADDAD ,46.0,"$61,348",2025-03-09,Lisbon,Gizmo,2.0,75.6
+C1051,Bob Haddad,31.8,"$74,277",2025-11-17,Austin,widget,6.0,93.9
+C1223,Carlos Nguyen,,"$69,594",31 Jan 2025,Tokyo,Gadget,4.0,75.7
+C1125,Frank Smith,33.3,"$80,045",2024-13-45,Nairobi,Gizmo,3.0,82.1
+C1169,Alice Silva,34.0,"$58,683",06-10-2025,Nairobi,Sprocket,3.0,78.8
+C1184,Elena Nguyen,18.9,"$61,622",2025-11-04,Lisbon,Gizmo,5.0,80.3
+C1111,Hiro Kim,21.0,"$34,545",18/10/2024,Lisbon,Gadget,5.0,58.5
+C1085,Hiro Haddad,25.3,"$59,411",27 Dec 2024,Nairobi,Doohickey,2.0,71.9
+C1097,Grace Kim,65.9,"$76,075",24/10/2024,Toronto,Gadget,1.0,82.1
+C1237,Elena Silva,42.1,"$65,796",12-06-2024,Sydney,Gizmo,3.0,79.3
+C1239,Grace Silva,29.7,?,01 Jul 2024,Toronto,Gizmo,1.0,70.7
+C1182,  ELENA HADDAD ,41.8,"$66,049",30 Mar 2025,Berlin,Sprocket,6.0,60.3
+C1128,Frank Nguyen,36.6,"$72,563",16 Aug 2024,Lisbon,Gadjet,2.0,69.5
+C1091,Ingrid Kowalski,150.0,,,Toronto,Sprocket,1.0,68.1
+C1156,Bob Nguyen,49.1,"$47,433",22/01/2025,Mumbai,Doohickey,8.0,41.9
+C1213,Elena Nguyen,42.4,"$78,320",14/05/2024,Tokyo,Gadget,4.0,73.4
+C1217,Alice Silva,49.2,"$66,505",2025-04-04,Mumbai,Widget,8.0,45.0
+C1229,Bob Smith,43.2,"$66,087",12/05/2025,Lisbon,Gadget,9.0,54.0
+C1037,  INGRID SILVA ,34.4,"$43,821",2024-09-30,Tokyo,Widget,6.0,69.8
+C1173,Hiro Silva,42.2,"$23,947",2025-06-09,Tokyo,Sprocket,9.0,88.1
+C1177,Bob Haddad,39.9,"$70,087",14 Sep 2024,Mumbai,Gadget,5.0,54.6
+C1188,Carlos Smith,34.5,"$79,526",24 Aug 2024,Lisbon,Sprocket,4.0,62.8
+C1104,Hiro Kim,18.8,"$45,133",14 Aug 2024,Sydney,Gadget,2.0,55.2
+C1105,Hiro Kim,23.0,"$75,571",2025-07-05,NA,Gadget,9.0,78.2
+C1247,Elena Kowalski,32.7,"$82,923",01-27-2025,Austin,Widget,2.0,83.5
+C1049,Hiro Smith,37.2,"$69,350",2025-10-15,Lisbon,Sprocket,4.0,75.2
+C1216,Alice O'Neil,34.3,"$32,895",27/11/2024,Sydney,Gizmo,3.0,66.3
+C1005,  INGRID O'NEIL ,43.5,"$63,432",27/03/2025,Toronto,Gizmo,2.0,50.4
+C1017,Bob Kowalski,40.1,"$62,126",25 Jul 2025,Austin,Sprocket,9.0,60.4
+C1170,Bob Kim,51.4,"$46,599",21 May 2024,Sydney,Gizmo,6.0,65.3
+C1116,Alice Nguyen,46.4,"$34,298",15 May 2025,Mumbai,Widget,8.0,52.3
+C1165,  INGRID MÜLLER ,53.8,"$61,208",2025-05-31,Nairobi,Gadget,,39.7
+C1106,Hiro O'Neil,18.8,"$70,749",21 Apr 2025,Nairobi,Gizmo,3.0,80.7
+C1134,  HIRO SMITH ,29.9,"$55,616",12-23-2024,Austin,Gizmo,7.0,93.2
+C1171,Alice Müller,42.6,,18/12/2024,Mumbai,Sprocket,3.0,55.9
+C1064,Elena O'Neil,38.9,,12 Nov 2024,Austin,Sprocket,9.0,76.1
+C1026,Elena Nguyen,37.3,"$38,813",14 Nov 2024,Berlin,Widget,5.0,88.5
+C1148,Ingrid Kowalski,47.6,"$47,655",27/08/2024,Nairobi,Gizmo,1.0,82.9
+C1194,Jamal Silva,34.6,"$31,523",2024-02-12,Austin,Gadget,4.0,43.2
+C1198,Dana Silva,50.8,"$74,293",20 Aug 2025,Lisbon,Gizmo,1.0,63.3
+C1234,Elena Nguyen,39.2,"$81,096",2025-10-13,Lisbon,Gizmo,,67.9
+C1117,Bob Kowalski,39.7,"$35,918",14/07/2025,Lisbon,Doohickey,9.0,41.4
+C1154,Elena Nguyen,36.4,"$63,975",06/07/2024,Berlin,Doohickey,3.0,65.1
+C1248,Hiro Kim,55.5,"$84,066",20 Apr 2024,BERLIN,Doohickey,2.0,43.6
+C1029,Elena Smith,53.6,"$60,455",10 Aug 2025,Sydney,Doohickey,2.0,106.0
+C1079,Grace Silva,41.2,"$46,269",04-01-2025,Nairobi,Doohickey,5.0,72.0
+C1140,Jamal Müller,37.2,"$57,354",not a date,Toronto,Sprocket,4.0,-999.0
+C1131,Frank Kim,22.4,"$79,702",01-08-2025,Nairobi,Gizmo,5.0,51.0
+C1039,Grace Nguyen,29.6,N/A,11-30-2025,Lisbon,Gizmo,2.0,84.6
+C1226,Ingrid Haddad,2.4,"$68,650",25 Sep 2024,Nairobi,Gadget,6.0,75.2
+C1054,  ELENA SILVA ,29.6,"$53,703",2025-10-18,Mumbai,Gadget,1.0,35.5
+C1043,Dana Kowalski,35.7,"$97,783",2024-04-17,Lisbon,Sprocket,1.0,73.1
+C1235,Hiro O'Neil,37.0,"$65,206",25/02/2025,Mumbai,Gadget,1.0,68.5
+C1048,Grace Kowalski,19.1,"$79,627",09-06-2025,Sydney,Widget,3.0,51.8
+C1222,Hiro Nguyen,54.4,"$89,466",05 Jan 2024,Austin,Doohickey,9.0,72.8
+C1059,Grace Smith,,"$34,659",2024-07-08,Lisbon,Sprocket,4.0,48.1
+C1143,Elena Silva,28.0,N/A,25 Jan 2024,Tokyo,Gizmo,6.0,63.6
+C1053,Elena Kim,45.7,"$87,940",18 Feb 2024,Sydney,Widget,3.0,73.4
+C1020,Frank Kowalski,16.9,"$68,384",03 Feb 2025,Toronto,Doohickey,5.0,64.6
+C1124,Ingrid Kim,47.8,"$41,297",2025-02-02,Mumbai,Doohickey,7.0,67.5
+C1224,Hiro Müller,29.4,"$89,311",06 Jun 2025,Berlin ,Sprocket,7.0,45.4
+C1249,Alice Nguyen,39.6,"$83,465",26 Sep 2024,Berlin,Doohickey,3.0,75.3
+C1174,Grace Nguyen,61.4,"$38,061",15 May 2025,Austin,Widget,8.0,81.0
+C1076,Dana O'Neil,50.8,"$55,398",2024-07-25,Sydney,Gadget,3.0,73.4
+C1249,Alice Nguyen,39.6,"$83,465",26 Sep 2024,Berlin,Doohickey,3.0,75.3
+C1107,Grace Kim,28.5,"$49,357",05 Aug 2025,Mumbai,Gadget,3.0,73.3
+C1207,Jamal Müller,36.0,"$48,425",2025-09-04,Lisbon,Widget,7.0,96.1
+C1012,Hiro Kowalski,35.0,"$71,017",10/09/2024,Austin,Doohickey,3.0,66.2
+C1016,Frank Nguyen,35.2,"$78,309",04-05-2025,Toronto,Sprocket,7.0,82.1
+C1047,Ingrid Nguyen,46.8,"$55,629",09/03/2025,Tokyo,Widget,9.0,76.5
+C1200,  DANA KIM ,38.1,"$48,924",11-22-2025,Mumbai,Gizmo,7.0,85.0
+C1119,Bob Haddad,40.8,"$55,591",12-09-2024,berlin,Gadget,8.0,55.2
+C1021,Dana Smith,41.9,"$38,934",2024-04-27,Berlin,Doohickey,9999.0,85.4
+C1146,Alice Smith,27.3,"$50,917",06 Jun 2025,Tokyo,Gizmo,9.0,56.0
+C1178,Jamal Smith,50.9,"$78,812",10-15-2024,Sydney,Widget,2.0,72.5
+C1214,Hiro Smith,34.6,"$76,464",2025-03-08,Tokyo,Gadjet,8.0,53.6
+C1130,Frank Smith,14.1,"$61,995",2024-08-03,Mumbai,Gizmo,8.0,77.9
+C1208,Carlos Haddad,28.6,"$80,390",29/10/2025,Nairobi,Gizmo,8.0,71.5
+C1243,Grace Silva,27.3,"$74,202",14 Jun 2025,n/a,Sprocket,1.0,67.4
+C1073,  BOB KIM ,48.2,,2025-01-21,Austin,Gadget,8.0,78.6
+C1030,Elena Kowalski,45.0,"$71,542",13/06/2024,Austin,Doohickey,8.0,56.5
+C1233,Hiro Haddad,34.4,"$97,356",04 Feb 2024,Mumbai,Doohickey,2.0,62.4
+C1033,  FRANK NGUYEN ,43.3,"$59,712",2025-06-26,Tokyo,Gizmo,9999.0,60.3
+C1190,Grace Kim,51.3,"$24,549",04-23-2024,Austin,Gizmo,8.0,67.2
+C1219,  JAMAL KIM ,34.0,"$41,963",21 Jul 2024,Nairobi,Gizmo,,58.4
+C1155,Grace Silva,16.0,"$83,885",07-30-2025,Austin,Doohickey,5.0,73.5
+C1236,  GRACE KOWALSKI ,47.5,"$69,478",2024-09-17,Toronto,Gizmo,6.0,61.0
+C1123,Elena Kowalski,40.4,"$52,150",10/04/2024,Austin,Gadget,3.0,75.5
+C1004,Elena Müller,49.1,"$101,631",2025-02-28,Nairobi,Doohickey,9.0,68.8
+C1163,Elena O'Neil,41.9,"$46,369",03/10/2024,Berlin,Widget,8.0,60.3
+C1100,Ingrid Silva,57.3,"$57,972",2024-09-15,Tokyo,Widget,7.0,58.9
+C1149,Alice Kowalski,58.6,"$48,527",27/04/2024,Lisbon,Widget,6.0,99.1
+C1205,  CARLOS SILVA ,45.0,"$97,133",10-02-2024,Austin,Gizmo,,91.4
+C1151,Carlos Haddad,42.7,"$85,033",04-12-2024,Berlin,Doohickey,6.0,47.6
+C1242,Alice Haddad,26.4,"$42,494",30 Jun 2024,Lisbon,Gizmo,8.0,68.5
+C1061,Hiro Müller,45.3,"$46,382",11/09/2025,Nairobi,Gizmo,2.0,87.2
+C1180,Jamal Smith,150.0,"$44,848",03-13-2025,Lisbon,Gizmo,7.0,65.0
+C1035,Alice Kim,43.3,,03-21-2024,Austin,Widget,6.0,56.1
+C1010,Frank Haddad,34.5,"$49,002",19 Nov 2024,Berlin,Gadget,9.0,59.7
+C1091,Ingrid Kowalski,150.0,,,Toronto,Sprocket,1.0,68.1
+C1071,Bob Smith,55.7,"$57,068",23 Oct 2024,Lisbon,Widget,5.0,65.4
+C1092,Ingrid Silva,38.1,"$77,586",12/08/2024,Austin,Gadget,8.0,40.4
+C1241,Frank Haddad,57.5,"$51,570",20 Oct 2024,Berlin ,Gadget,8.0,83.9
+C1093,Dana Silva,53.9,"$101,948",2024-08-10,Berlin,Doohickey,2.0,83.5
+C1159,Hiro Smith,25.2,"$61,012",27/07/2025,Lisbon,Doohickey,6.0,75.0
+C1118,Carlos Smith,47.1,"$73,677",27 Apr 2024,NA,Gizmo,9.0,72.5
+C1144,  JAMAL MÜLLER ,30.9,"$24,468",08-24-2024,Tokyo,Gadget,5.0,62.8
+C1225,  DANA HADDAD ,20.0,"$65,217",20/01/2025,Austin,Gadget,,62.2
+C1001,Hiro Nguyen,41.2,"$71,931",15/11/2024,Lisbon,Gizmo,7.0,72.6
+C1244,Grace Kowalski,54.0,"$72,043",13 Mar 2024,Berlin,Sprocket,4.0,73.6
+C1083,Ingrid Haddad,42.6,"$57,705",30 Nov 2025,Sydney,Widget,2.0,42.4
+C1161,Grace O'Neil,-5.0,"$64,754",05/03/2024,Mumbai,Sprocket,5.0,80.1
+C1195,Alice Müller,40.2,"$66,783",05 Oct 2024,Toronto,Widget,4.0,88.9
+C1087,Dana Kowalski,55.8,?,07 Mar 2024,Berlin,gizmo,1.0,65.1
+C1137,Alice Haddad,-5.0,"$79,234",01/01/2024,Lisbon,Gizmo,2.0,74.4
+C1004,Elena Müller,49.1,"$101,631",2025-02-28,Nairobi,Doohickey,9.0,68.8
+C1038,Carlos Silva,38.8,"$49,926",11/11/2024,Nairobi,Gadget,3.0,53.7
+C1206,Hiro O'Neil,37.3,"$85,449",2024-05-08,Sydney,Gizmo,7.0,51.7
+C1201,Jamal Kim,69.2,"$65,206",,Mumbai,Doohickey,5.0,83.0
+C1231,Ingrid Haddad,43.6,"$64,078",2024-01-19,Lisbon,Doohickey,1.0,63.2
+C1034,  INGRID NGUYEN ,58.9,"$45,702",27/02/2025,Lisbon,Gadget,8.0,62.5
+C1192,  GRACE O'NEIL ,42.2,"$86,379",31 Jan 2024,Sydney,Gadget,1.0,55.6
+C1189,Dana Nguyen,61.2,N/A,2024-05-03,Lisbon,Doohickey,8.0,87.4
+C1112,  FRANK O'NEIL ,,"$64,684",03/10/2024,Sydney,Widget,6.0,-999.0
+C1181,Bob Müller,37.7,"$73,061",25 May 2024,Austin,Gadjet,3.0,78.5
+C1183,Grace O'Neil,28.0,"$74,877",10 Jun 2025,Nairobi,Gizmo,6.0,79.6
+C1152,Jamal Kowalski,25.5,"$60,589",15/02/2024,Berlin,Doohickey,8.0,82.9
+C1056,Frank Kowalski,38.4,"$74,740",16/02/2025,Toronto,Gadget,2.0,82.3
+C1069,  ELENA HADDAD ,45.1,"$53,948",03 May 2024,Toronto,Doohickey,1.0,69.8
+C1191,Grace Kowalski,26.5,"$83,031",02 May 2024,Nairobi,Gadget,7.0,-999.0
+C1044,  ALICE SILVA ,,"$35,268",19/01/2024,Tokyo,Gizmo,9.0,52.6
+C1188,Carlos Smith,34.5,"$79,526",24 Aug 2024,Lisbon,Sprocket,4.0,62.8
+C1019,Elena Silva,33.5,"$74,872",08-25-2025,Toronto,Gadget,4.0,76.7
+C1006,Alice Müller,24.7,"$59,473",19/03/2025,Nairobi,Widget,4.0,64.3
+C1055,Alice O'Neil,25.8,"$53,541",06/04/2024,Sydney,Gadget,1.0,57.2
+C1075,Elena O'Neil,47.8,"$73,480",2024-12-16,Austin,Gadget,5.0,65.9
+C1000,Alice O'Neil,52.3,"$76,928",14 Mar 2025,Mumbai,Gizmo,6.0,73.1
+C1172,Hiro Haddad,36.4,"$85,304",12 Jan 2025,Lisbon,Gizmo,6.0,63.7
+C1135,Dana Smith,47.0,"$57,163",06/02/2024,Sydney,Sprocket,8.0,87.4
+C1127,Hiro Müller,34.8,"$107,887",2024-03-08,Toronto,Sprocket,8.0,61.6
+C1176,Hiro Haddad,38.8,"$91,301",04 Aug 2024,Sydney,Widget,1.0,81.3
+C1068,Alice Kim,30.9,"$69,350",06 Feb 2025,Sydney,Gizmo,8.0,67.1
+C1230,Elena Kowalski,31.3,"$41,552",11-20-2024,Toronto,Widget,5.0,67.7
+C1167,Bob Smith,20.3,"$36,857",2024-06-29,Mumbai,Gizmo,2.0,63.3
+C1136,  GRACE SMITH ,34.6,"$56,376",07/06/2024,Sydney,Doohickey,9.0,76.3
+C1218,  ELENA O'NEIL ,16.0,"$54,989",10-24-2025,Tokyo,Gadget,3.0,60.7
+C1042,Hiro Kim,47.4,?,24 Oct 2025,Sydney,Gadget,,65.2
+C1110,Carlos Haddad,41.3,,10-17-2025,Nairobi,Widget,5.0,-999.0
+C1089,Ingrid Kim,28.1,"$75,432",05-24-2025,Sydney,Gizmo,9.0,86.0
+C1072,Elena Silva,42.4,"$65,578",12-20-2024,Toronto,Gadget,,71.4
+C1023,  JAMAL KIM ,,"$69,717",06 Jan 2024,Mumbai,Sprocket,2.0,62.7
+C1142,Carlos Kowalski,39.1,,10 Mar 2024,Tokyo,Doohickey,6.0,85.1
+C1185,  ELENA SMITH ,13.1,"$70,007",03-24-2024,Sydney,Sprocket,5.0,28.2
+C1103,Alice Nguyen,,"$95,022",04 Sep 2024,Lisbon,Doohickey,4.0,72.9
+C1211,Hiro O'Neil,46.0,,03 Sep 2025,Tokyo,Sprocket,5.0,60.0
+C1067,Dana Müller,13.2,"$77,849",2025-08-05,BERLIN,Gadget,3.0,67.1
+C1025,Grace Nguyen,34.1,"$68,417",23/08/2024,Lisbon,Doohickey,4.0,63.5
+C1196,Dana Kowalski,45.4,"$81,755",04 May 2025,Toronto,Gizmo,9.0,71.2
+C1175,Elena O'Neil,62.9,"$48,388",11-21-2024,Toronto,Sprocket,9.0,70.0
